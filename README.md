@@ -1,10 +1,6 @@
-# Bem vindo!
+<h1 align="center">Bem vindo!</h1>
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Olá+👋,+eu+sou+Nícolas+Medeiros;Bem+vindo+ao+meu+perfil!)
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nicolasmedeiros090@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/732995624093351997)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/n%C3%ADcolas-medeiros-rodrigues-a28916270)
+![Typing SVG](https://readme-typing-svg.demolab.com/?center=true&vCenter=true&width=1000&lines=Olá+👋,+eu+sou+Nícolas+Medeiros;Bem+vindo+ao+meu+perfil!)
 
 **`Estudante de Desenvolvimento Web`**
 
@@ -23,16 +19,32 @@ Eu sou um estudante de Desenvolvimento Web Fullstack na EBAC (Escola Britância 
     <br/>
 </ul>
 </details>
+<br>
+<div align="center">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+</div>
+<br>
+<h2 align="center">🔧 Linguagens e Ferramentas </h2>
 
-## 🔧 Linguagens e Ferramentas
-
-![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,git,github,gulp,py,sass,vscode)
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,git,github,gulp,py,sass,vscode">
+</div>
 
 ## 📈 GitHub Status
 
-![snake gif](https://github.com/nicolasmrodrigues/nicolasmrodrigues/blob/output/github-contribution-grid-snake-dark.svg)
+<br>
 
-<img height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=nicolasmrodrigues&show_icons=true&theme=tokyonight">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=nicolasmrodrigues&theme=tokyonight&layout=compact">
+<div align="center">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicolasmrodrigues&show_icons=true&theme=tokyonight">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=nicolasmrodrigues&theme=tokyonight&layout=compact">
+</div>
 
-<img width=150% src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=ffffff"/>
+<div align="center">
+    <img src="https://github.com/nicolasmrodrigues/nicolasmrodrigues/blob/output/github-contribution-grid-snake-dark.svg"><br>
+</div>
+
+<div align="center">
+    <img width=150% src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=ffffff"/>
+</div>
