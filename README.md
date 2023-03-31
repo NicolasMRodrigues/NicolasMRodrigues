@@ -1,3 +1,5 @@
+<h1 align="center">Bem Vindo!</h1>
+
 ![Typing SVG](https://readme-typing-svg.demolab.com/?center=true&vCenter=true&width=1000&size=25&lines=Olá+👋,+eu+sou+Nícolas+Medeiros;Bem+vindo+ao+meu+perfil!)
 
 **`Estudante de Desenvolvimento Web`**
