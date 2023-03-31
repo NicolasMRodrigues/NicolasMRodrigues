@@ -1,4 +1,8 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com/?center=true&vCenter=true&width=1000&size=25&lines=Olá+👋,+eu+sou+Nícolas+Medeiros;Bem+vindo+ao+meu+perfil!)
+<br>
+<br>
+<br>
+<br>
 
 **`Estudante de Desenvolvimento Web`**
 
