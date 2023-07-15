@@ -27,7 +27,7 @@ Eu sou um estudante de Desenvolvimento Web Fullstack na EBAC (Escola Britância 
 
 <div align="center">
     <h2>🔧 Linguagens e Ferramentas</h2>
-    <img src="https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,git,github,gulp,py,sass,vscode,babel,ts,vue,vite,">
+    <img src="https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,git,github,gulp,py,sass,babel,ts,vue,vite,styledcomponents">
 </div>
 
 <div align="center">
