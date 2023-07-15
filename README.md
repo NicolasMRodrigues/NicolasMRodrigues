@@ -5,7 +5,7 @@
 
 **`Estudante de Desenvolvimento Web`**
 
-Eu sou um estudante de Desenvolvimento Web Fullstack na EBAC (Escola Britância de Artes Criativas e Tecnologia) onde estou aprendendo todas as habilidades e tecnologias necessárias para me tornar um excelente profissional nessa área na qual sempre fui apaixonado.
+Sou um estudante de Desenvolvimento Web Fullstack na EBAC (Escola Britância de Artes Criativas e Tecnologia) onde estou aprendendo todas as habilidades e tecnologias necessárias para me tornar um excelente profissional nessa área na qual sempre fui apaixonado.
 
 🌱 Estou aprendendo Desenvolvimento Web Full Stack<br>
 😄 Pronomes: Ele / Dele
